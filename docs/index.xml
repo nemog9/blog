@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tomone blog</title>
-    <link>http://example.org/</link>
+    <link>http://ttmone.github.io/blog/</link>
     <description>Recent content on tomone blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2020 11:14:20 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 11:14:20 +0900</lastBuildDate><atom:link href="http://ttmone.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://example.org/posts/hello-world/</link>
+      <link>http://ttmone.github.io/blog/posts/hello-world/</link>
       <pubDate>Tue, 17 Nov 2020 11:14:20 +0900</pubDate>
       
-      <guid>http://example.org/posts/hello-world/</guid>
+      <guid>http://ttmone.github.io/blog/posts/hello-world/</guid>
       <description>sample</description>
     </item>
     
